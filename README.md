@@ -1,0 +1,1 @@
+Proof of Concept for Go Buffalo Application with Github Actions CICD implementation.
